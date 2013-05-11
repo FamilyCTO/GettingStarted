@@ -1,4 +1,4 @@
 GettingStarted
 ==============
 
-Familt CTO is just getting started
+Family CTO is just getting started
